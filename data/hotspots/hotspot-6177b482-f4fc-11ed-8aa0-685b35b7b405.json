@@ -1,0 +1,190 @@
+[
+    {
+        "images": [
+            0,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13,
+            18,
+            19,
+            21,
+            24,
+            28,
+            29,
+            30,
+            31,
+            37,
+            44,
+            50,
+            57,
+            76
+        ],
+        "img": "1909_e_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            9,
+            10,
+            14,
+            15,
+            20,
+            22,
+            23,
+            26,
+            32,
+            39,
+            41,
+            48,
+            51,
+            58,
+            60,
+            61,
+            62,
+            66,
+            91
+        ],
+        "img": "1909_t_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            33,
+            42,
+            46,
+            47,
+            55,
+            65,
+            67,
+            68,
+            69,
+            71,
+            97,
+            109,
+            110,
+            117,
+            120
+        ],
+        "img": "1914_f_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            49,
+            70,
+            78,
+            79,
+            80,
+            83,
+            84,
+            85,
+            87,
+            89,
+            90,
+            92,
+            93,
+            96
+        ],
+        "img": "1910_c_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            25,
+            27,
+            34,
+            35,
+            36,
+            38,
+            43,
+            53,
+            59,
+            73,
+            88
+        ],
+        "img": "1909_q_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            63,
+            72,
+            74,
+            75,
+            77,
+            81,
+            82,
+            86,
+            95,
+            99,
+            121
+        ],
+        "img": "1916_a_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            101,
+            102,
+            106,
+            107,
+            108,
+            118,
+            119
+        ],
+        "img": "1914_e_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    },
+    {
+        "images": [
+            45,
+            54,
+            56,
+            64,
+            94,
+            105
+        ],
+        "img": "1912_d_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 8"
+    },
+    {
+        "images": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "img": "1914_b_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 9"
+    },
+    {
+        "images": [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+        ],
+        "img": "1917_f_mondrian.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 10"
+    }
+]
